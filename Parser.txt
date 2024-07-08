@@ -1,0 +1,2 @@
+global variable definition
+global variable definition

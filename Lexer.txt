@@ -1,0 +1,10 @@
+TYPE: int
+ID : new_variable
+ASSIGN : =
+NUMBER : 20
+SEMI : ;
+TYPE: int
+ID : new1
+ASSIGN : =
+NUMBER : 20
+SEMI : ;
